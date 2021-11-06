@@ -30,10 +30,10 @@ The purpose of the current project was to replace the test scores for the 9th gr
     - *Original Per-School Summary*
     ![](Resources/original_school_summary.png)
     
-    - *Smmary Immediately After Scores Replaced*
+    - *Immediately After Scores Replaced*
     ![](Resources/nan_school_summary.png)
     
-    - *Updated Summary With Adjusted Student Count*
+    - *Updated With Adjusted Student Count*
     ![](Resources/adjusted_school_summary.png)
     
 - Thomas High School's performance relative to the other schools in the district based on overall passing percentage did not change after replacing 9th grade scores with NaN. It remained in second place. 
